@@ -7,7 +7,7 @@ h1, nav a {
 }
 
 .bracket{
-    min-height: 400px;
+    min-height: 200px;
     width: 50%;
     overflow-y: auto;
 }
