@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "nike"
+    },
+    {
+        "id": 2,
+        "name": "adidas"
+    },
+    {
+        "id": 3,
+        "name": "puma"
+    },
+    {
+        "id": 4,
+        "name": "reebok"
+    },
+    {
+        "id": 5,
+        "name": "new balance"
+    },
+    {
+        "id": 6,
+        "name": "paciotti"
+    },
+    {
+        "id": 7,
+        "name": "replay"
+    },
+    {
+        "id": 8,
+        "name": "skechers"
+    },
+    {
+        "id": 9,
+        "name": "cat"
+    },
+    {
+        "id": 10,
+        "name": "timberland"
+    }
+]

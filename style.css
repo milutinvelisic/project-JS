@@ -1,0 +1,20 @@
+body {
+    background-color: #ffa46b;
+}
+
+h1, nav a {
+    color: #926bff;
+}
+
+.bracket{
+    min-height: 400px;
+    width: 50%;
+    overflow-y: auto;
+}
+
+.inputs{
+    width: 49%;
+    height: 30px;
+    display: inline-block;
+    padding: 5px;
+}
