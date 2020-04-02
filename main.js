@@ -109,8 +109,14 @@ window.onload = function () {
     })
 
     $(document).on('click', ".sendToBackend", function () {
-        alert("Data has been sent to server side for render!")
-        window.location.href = "https://milutinvelisic.github.io/project-JS/";
+
+        if (rightArray.length != 0) {
+            alert("Data has been sent to server side for render!")
+            window.location.href = "https://milutinvelisic.github.io/project-JS/";
+        } else {
+            alert("Cannot send nothing to server side!")
+        }
+
     })
 
     function fillLeftBracket(data) {
