@@ -54,9 +54,7 @@ window.onload = function () {
 
         for (let i = 0; i < leftArray.length; i++) {
 
-            let id = leftArray[i].id;
-
-            if (niz.indexOf(id) !== -1) {
+            if (niz.indexOf(leftArray[i].id) !== -1) {
 
                 leftArray.splice(i, 1);
 
@@ -93,9 +91,7 @@ window.onload = function () {
 
         for (let i = 0; i < rightArray.length; i++) {
 
-            let id = rightArray[i].id;
-
-            if (niz.indexOf(id) !== -1) {
+            if (niz.indexOf(rightArray[i].id) !== -1) {
 
                 rightArray.splice(i, 1);
 
