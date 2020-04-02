@@ -2,12 +2,12 @@ body {
     background-color: #ffa46b;
 }
 
-h1, nav a {
+h1, nav a, a {
     color: #926bff;
 }
 
 .bracket{
-    min-height: 200px;
+    min-height: 400px;
     width: 50%;
     overflow-y: auto;
 }
@@ -17,4 +17,8 @@ h1, nav a {
     height: 30px;
     display: inline-block;
     padding: 5px;
+}
+
+.footer{
+    margin-top: 200px;
 }
